@@ -39,7 +39,7 @@ mission = "Learning from data. Building for the future."
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Orth33&theme=tokyonight" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Orth33&theme=tokyonight" height="500"/>
 </p>
 
 ---
