@@ -50,7 +50,7 @@ mission = "Learning from data. Building for the future."
 - Deep Learning Architectures
 - Model Optimization
 - Real-world AI Applications
-- Deployment
+- MLOps & Deployment
 ---
 
 ```python
