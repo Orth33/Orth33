@@ -1,14 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Orthee</h1>
-<h3 align="center">Machine Learning Engineer | AI Enthusiast | Building Intelligent Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=800&color=00C2FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Engineering+Student;AI+%26+Machine+Learning+Explorer;Open+Source+Learner;Always+Learning+Something+New" />
+</h3>
+</p>
 
 ---
 
 ### 🧠 About Me
-- 🎓 Engineering student passionate about **AI, Machine Learning, and Data Science**
-- 🤖 I love building systems that **learn from data and solve real-world problems**
-- 🔬 Interested in **Deep Learning, Computer Vision, NLP, and MLOps**
-- 🌏 Based in **Dhaka, Bangladesh**
-- 🚀 Currently exploring: **Advanced ML projects & real-world deployments**
+- Engineering student passionate about **AI, Machine Learning, and Data Science**
+- I love building systems that **learn from data and solve real-world problems**
+- Interested in **Data Analysis, Deep Learning, Computer Vision, and NLP**
+- Currently exploring: **Advanced ML projects & real-world deployments**
 
 ---
 
