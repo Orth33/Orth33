@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Orthee</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=800&color=00C2FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Engineering+Student;AI+%26+Machine+Learning+Explorer;Open+Source+Learner;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=800&color=00c2ff&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Engineering+Student;AI+%26+Machine+Learning+Explorer;Open+Source+Learner;Always+Learning+Something+New" />
 </h3>
 </p>
 
