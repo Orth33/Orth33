@@ -1,38 +1,40 @@
 <h1 align="center">Hi there 👋, I'm Orthee</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=800&color=00c2ff&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Engineering+Student;AI+%26+Machine+Learning+Explorer;Open+Source+Learner;Always+Learning+Something+New" />
-</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=800&color=00c2ff&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Data+%26+Machine+Learning+Enthusiast;Data+Analytics+Explorer;Building+with+Data;Always+Learning+Something+New" />
 </p>
 
----
 
 ### 🧠 About Me
-- Engineering student passionate about **AI, Machine Learning, and Data Science**
-- I love building systems that **learn from data and solve real-world problems**
-- Interested in **Data Analysis, Deep Learning, Computer Vision, and NLP**
-- Currently exploring: **Advanced ML projects & real-world deployments**
+
+- 🎓 Engineering student passionate about **Data, AI, and Machine Learning**
+- 📊 Interested in turning data into **actionable insights and business decisions**
+- 🤖 Experienced in **Machine Learning, Deep Learning, and AI research**
+- 📈 Exploring **Data Analytics and Business Intelligence**
+- 🚀 Always learning and working on projects that connect **data, analytics, and intelligent systems**
 
 ---
 
-### 💡 My Mission
 ```python
-mission = "Learning from data. Building for the future."
+mission = "Learning from data. Building intelligent systems. Creating real-world impact."
 ```
 
+---
 ### 🛠️ Tech Stack
 
-#### Languages
+#### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=js,html,python,java," />
+<img src="https://skillicons.dev/icons?i=js,html,python,java" />
 </p>
 
-#### Machine Learning & Data
+#### 📊 Data Analytics & Machine Learning
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-#### Tools & Platforms
+#### 🧰 Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
@@ -47,24 +49,28 @@ mission = "Learning from data. Building for the future."
 
 ---
 
-### 🚀 Areas of Interest
+### 🎯 Currently Exploring
 
-- Machine Learning Systems
-- Deep Learning Architectures
+- Power BI & Business Intelligence
+- Data Modeling
+- Exploratory Data Analysis
 - Model Optimization
-- Real-world AI Applications
-- MLOps & Deployment
+- Applied Machine Learning
 ---
 
 ```python
 class Orthee:
     def __init__(self):
-        self.role = "Machine Learning Engineer"
+        self.role = "Data & Machine Learning Enthusiast"
         self.location = "Dhaka, Bangladesh"
-        self.interests = ["AI", "Machine Learning", "Deep Learning"]
+        self.interests = [
+            "Data Analytics",
+            "Machine Learning",
+            "Artificial Intelligence"
+        ]
 
     def goal(self):
-        return "Build intelligent systems that create real-world impact"
+        return "Turn data into insights and build intelligent systems that create real-world impact"
 
 me = Orthee()
 print(me.goal())
