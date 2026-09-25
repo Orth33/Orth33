@@ -29,9 +29,9 @@ mission = "Learning from data. Building intelligent systems. Creating real-world
 
 #### 📊 Data Analytics & Machine Learning
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
 #### 🧰 Tools & Platforms
