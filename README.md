@@ -24,7 +24,7 @@ mission = "Learning from data. Building intelligent systems. Creating real-world
 
 #### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=js,html,python,java" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html" />
 </p>
 
 #### 📊 Data Analytics & Machine Learning
